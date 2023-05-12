@@ -5,4 +5,4 @@ Application under test: link to application
 
 API Documentation: link to API documentation if exists or N/A
 
-The final project will be stplit into 2 section: [Testing section]() and  [SQL section]()
+The final project will be split into 2 section: [Testing section]() and  [SQL section]()
